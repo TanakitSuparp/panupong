@@ -12,7 +12,7 @@
 ช : น้อยสิ เดือนก่อนคุณรักผม 31 วัน เดือนนี้คุณรักผม 30 วัน
 ญ : พ่อง</p>
         <img src="coffee.jpg">
-        <img src="dowload.jpg">
+        <img src="download.jpg">
         <br>
         <a href="-"http://www.it.kmitl.ac.th">Education Link</a>
                                              
